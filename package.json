@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanyaChupin/To-Do-List.git"
+  },
+  "author": "Danya chupin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanyaChupin/To-Do-List/issues"
+  },
+  "homepage": "https://github.com/DanyaChupin/To-Do-List#readme"
+}
